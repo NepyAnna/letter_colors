@@ -12,13 +12,72 @@ h1 {
     justify-content: center;
     gap: 50px;
     flex-wrap: wrap;
-  }
+}
 
-  .column {
+.column {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
-  }
+}
 
-  
+.cool-gray { 
+    color: #71717A; 
+}
+.warm-gray {
+    color: #78716C;
+}
+.amber {
+    color: #D97706;
+}
+.green {
+    color: #157639;
+}
+.cyan {
+    color: #087c90;
+}
+.red { 
+    color:#DC2626;
+}
+.yellow {
+    color: #ffff00;
+}
+.emerald {
+    color: #408a72;
+}
+.sky {
+    color: #0EA5E9;
+}
+.orange {
+    color: #F97316;
+}
+.lime {
+    color: #84CC16;
+}
+.teal {
+    color: #14B8A6;
+}
+.fuchsia {
+    color: #ff00ff;
+}
+.pink {
+    color: #ffc0cb;
+}
+.rose {
+    color: #ff007f;
+}
+.blue-gray {
+    color: #5d779c;
+}
+.purple {
+    color: #800080;
+}
+.violet {
+    color: #ee82ee;
+}
+.indigo {
+    color: #4b0082;
+}
+.blue {
+    color: #1341a5;
+}
