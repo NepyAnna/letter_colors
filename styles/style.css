@@ -1,8 +1,24 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
+    font-family: Arial;
+    background-color: #eeeded;
 }
 
 h1 {
     text-align: center;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+  }
+
+  .column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-align: left;
+  }
+
+  
