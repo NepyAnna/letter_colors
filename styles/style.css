@@ -2,25 +2,21 @@ body {
     font-family: Arial;
     background-color: #eeeded;
 }
-
 h1 {
     text-align: center;
 }
-
 .container {
     display: flex;
     justify-content: center;
     gap: 50px;
     flex-wrap: wrap;
 }
-
 .column {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
 }
-
 .cool-gray { 
     color: #71717A; 
 }
